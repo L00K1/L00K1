@@ -1,16 +1,30 @@
-## Hi there 👋
+# Marco (L0K1) | Cybersecurity Student
 
-<!--
-**L00K1/L00K1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oslo, Norway  
+BSc in Cybersecurity – Kristiania  
 
-Here are some ideas to get you started:
+# Technical Competencies
+• Programming: Python, JavaScript, HTML, CSS, Java, MySQL 
+• Systems: Linux (Mint/Arch), Windows, MacOS  
+• Tools: Git, VSCode, MySQL Workbench, IntelliJ Idea, PyCharm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Technical Interests
+
+Cybersecurity  
+- Threat detection fundamentals  
+- Secure system configuration  
+- CTF-style problem solving  
+
+Programming  
+- Writing clean, structured code  
+- Backend logic & data handling  
+- Web fundamentals (HTML/CSS/JS)  
+
+Computer Science Foundations  
+- Algorithms & logical thinking  
+- Relational database design  
+- Operating systems concepts  
+- Networking basics
+
+# Currently
+Learning more about programming, certifications, security protocols and Ethical Hacking.
