@@ -7,7 +7,7 @@
 
 ## 🌐 Portfolio (More Contact info also on the website)
 
-🔗 https://lo0k1.github.io/Website-Portfolio/
+🔗 https://l00K1.github.io/Website-Portfolio/
 
 ---
 
