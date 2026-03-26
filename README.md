@@ -1,30 +1,38 @@
-# Marco (L0K1) | Cybersecurity Student
+# 👋 Hi, I'm Marco (Or L0K1 if you prefer)
 
-Oslo, Norway  
-BSc in Cybersecurity – Kristiania  
+🎓 Cybersecurity student based in Oslo  
+💻 Passionate about IT, programming, and security  
 
-# Technical Competencies
-• Programming: Python, JavaScript, HTML, CSS, Java, MySQL 
-• Systems: Linux (Mint/Arch), Windows, MacOS  
-• Tools: Git, VSCode, MySQL Workbench, IntelliJ Idea, PyCharm
+---
 
-# Technical Interests
+## 🌐 Portfolio (More Contact info also on the website)
 
-Cybersecurity  
-- Threat detection fundamentals  
-- Secure system configuration  
-- CTF-style problem solving  
+🔗 https://lo0k1.github.io/Website-Portfolio/
 
-Programming  
-- Writing clean, structured code  
-- Backend logic & data handling  
-- Web fundamentals (HTML/CSS/JS)  
+---
 
-Computer Science Foundations  
-- Algorithms & logical thinking  
-- Relational database design  
-- Operating systems concepts  
-- Networking basics
+## 🚀 Projects
 
-# Currently
-Learning more about programming, certifications, security protocols and Ethical Hacking.
+### 🌐 Portfolio Website
+- Live: https://lo0k1.github.io/Website-Portfolio/
+- Code: https://github.com/LO0K1/Website-Portfolio
+
+### 🗄️ CTF Database (MySQL)
+- Code: https://github.com/LO0K1/ctf-database
+
+---
+
+## 🛠️ Skills
+
+- Java
+- Python
+- MySQL
+- HTML / CSS / JavaScript
+- Linux
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/LO0K1
+- LinkedIn: https://www.linkedin.com/in/marco-santana-16936637b/
